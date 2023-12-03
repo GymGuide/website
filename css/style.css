@@ -44,7 +44,7 @@ h4 {
 	padding-bottom: 0px!important;
 	padding-top: 0px!important;
 	transition: all 0.3s ease;
-	background: #20082a!important;
+	background: #000000!important;
 	color: white;
 }
 iframe {
@@ -204,7 +204,7 @@ a:hover {
 .heading h3 {
 	margin: 8px 0px;
 	font-size: 30px;
-	color: #3a3161;
+	color: #000000;
 	font-weight: 600
 }
 .overlay {
@@ -260,10 +260,10 @@ a:hover {
 }
 .buttons .btn-pink:hover,
 .buttons .btn-blue:hover {
-	color: #fff!important
+	color: #000000!important
 }
 .buttons .btn:hover {
-	background: #d3d4dc;
+	background: #ffffff;
 	padding: 18px 40px;
 	color: #46356b;
 	transition: background-color 0.5s ease;
