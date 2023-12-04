@@ -36,7 +36,7 @@ body {
 }
 h2,
 h4 {
-	color: #3a3161;
+	color: #000000;
 	font-weight: 600;
 }
 .navbar.scroll-nav {
@@ -135,12 +135,12 @@ iframe {
 	display: inline-block!important;
 }
 .navigation .menu-left li a:hover {
-	color: #fff;
+	color: #fbc94c;
 	transition: 0.4s;
 	background: transparent;
 }
 .navigation .menu-left li a:focus {
-	color: #fff;
+	color: #fbc94c;
 	transition: 0.4s;
 	background: transparent;
 }
@@ -154,7 +154,7 @@ iframe {
 }
 .mobile-app-banner-content h1 {
 	font-size: 56px;
-	color: #fff;
+	color: #ffffff;
 	font-weight: 600;
 }
 .mobile-app-banner-content p {
@@ -233,7 +233,7 @@ a:hover {
 	opacity: 1;
 }
 .overlay-image .overlay {
-    background: rgba(58, 49, 97, .75);
+    background: rgba(0, 0, 0, 0.75);
     border-radius: 4px;
     top:10px;
     left:10px;
@@ -276,8 +276,8 @@ a:hover {
 	padding-top: 100px;
 }
 .video {
-	padding-top: 75px;
-	padding-bottom: 5px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 .question,
 .trust {
@@ -314,8 +314,13 @@ a:hover {
 .feature-text h4 {
 	margin: 40px 0px
 }
+
+#coach-consultation {
+	padding-bottom: 1000px;
+}
+
 .feature-text:hover {
-	border-top: 6px solid #fb527a;
+	border-top: 6px solid #fbc94c;
 	padding-top: 45px;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
@@ -337,7 +342,7 @@ a:hover {
 	clear: both
 }
 .footer {
-	padding: 100px 0px
+	padding: 20px 0px
 }
 .social {
 	border: 1px solid #ddd;
@@ -347,40 +352,40 @@ a:hover {
 	padding: 40px
 }
 .youtube:hover {
-	border-top: 6px solid #e22a2a;
+	border-top: 6px solid #fbc94c;
 	padding-top: 35px;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 	border-radius: 6px
 }
 .facebook:hover {
-	border-top: 6px solid #3768c2;
+	border-top: 6px solid #fbc94c;
 	padding-top: 35px;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 	border-radius: 6px
 }
 .twitter:hover {
-	border-top: 6px solid #33afef;
+	border-top: 6px solid #fbc94c;
 	padding-top: 35px;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 	border-radius: 6px
 }
 .facebook .fb a {
-	background: #3768c2;
-	color: #fff;
+	background: #fbc94c;
+	color: #000000;
 	font-size: 14px;
 	padding: 12px 16px 12px 0px;
 	border-radius: 4px
 }
 .youtube .ytb a {
-	background: #e22a2a;
-	color: #fff;
+	background: #fbc94c;
+	color: #000000;
 	font-size: 14px;
 	padding: 12px 16px 12px 0px;
 	border-radius: 4px
 }
 .twitter .twitt a {
-	background: #33afef;
-	color: #fff;
+	background: #fbc94c;
+	color: #000000;
 	font-size: 14px;
 	padding: 12px 16px 12px 0px;
 	border-radius: 4px
@@ -406,14 +411,14 @@ a:hover {
 	margin-top: 40px
 }
 .playstore p {
-	color: #9699b1;
+	color: #7d7d7d;
 	font-size: 34px;
 	padding-top: 4px;
 	padding-bottom: 10px;
 }
 .read {
-	background: #fb527a;
-	color: #fff;
+	background: #fbc94c;
+	color: #000000;
 	display: inline-block;
 	padding: 10px 40px 0px;
 	margin-top: 40px;
@@ -437,21 +442,22 @@ a:hover {
 }
 .app-store p span {
 	font-size: 14px;
-	color: #fff;
+	color: #000000;
 	text-transform: capitalize;
 }
 .app-store p {
 	font-size: 24px;
 	float: right;
-	color: #fff;
+	color: #000000;
 	margin-top: 0px;
 	line-height: 1;
 }
 .app-store:hover {
-	background: #3a3161;
-	color: #fff;
+	background: #ffffff;
+	color: #000000;
 	text-decoration: none;
 	transition: background-color 0.5s ease;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 .purple .fa {
 	color: #fff!important;
@@ -676,7 +682,7 @@ a:hover {
 	color: transparent!important;
 }
 .footer-text p {
-	color: #8671a7;
+	color: #ffffff;
 }
 .footer-text a {
 	color: #fff;
@@ -692,7 +698,7 @@ a:hover {
 	background-position: right;
 }
 .footer-section-back {
-	padding-top: 250px;
+	padding-top: 20px;
 	padding-bottom: 50px
 }
 /* -----------------------------------
