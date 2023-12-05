@@ -39,6 +39,12 @@ h4 {
 	color: #000000;
 	font-weight: 600;
 }
+
+#judulH4 {
+    color: rgb(255, 255, 255); 
+	font-size: 20px;
+}
+
 .navbar.scroll-nav {
 	min-height: 35px;
 	padding-bottom: 0px!important;
@@ -184,7 +190,7 @@ iframe {
 	margin-right: 0px
 }
 p {
-	color: #575a73;
+	color: rgb(0, 0, 0);
 	font-size: 16px;
 	line-height: 30px;
 }
@@ -315,10 +321,6 @@ a:hover {
 	margin: 40px 0px
 }
 
-#coach-consultation {
-	padding-bottom: 1000px;
-}
-
 .feature-text:hover {
 	border-top: 6px solid #fbc94c;
 	padding-top: 45px;
@@ -438,7 +440,7 @@ a:hover {
 	margin-right: 10px;
 }
 .mleft {
-	margin-left: 10px;
+	margin-left: 0px;
 }
 .app-store p span {
 	font-size: 14px;
@@ -794,10 +796,10 @@ a:hover {
 	font-size: 20px;
 }
 .main-navigation .navbar-custom {
-	background-color: #f5f4f8!important;
+	background-color: #000000!important;
 }
 .main-navigation .menu-left li a:hover {
-	color: #fb527a;
+	color: #fbc94c;
 	transition: 0.4s;
 	background: transparent;
 }
@@ -820,7 +822,7 @@ a:hover {
 }
 .nav-pagination {
 	padding: 145px 0px 44px;
-	background: #f5f4f8;
+	background: #000000;
 }
 .nav-pagination1 ul {
 	list-style: none;
@@ -830,12 +832,12 @@ a:hover {
 	display: inline-block;
 }
 .nav-pagination1 ul li a {
-	color: #575a73;
+	color: #ffffff;
 	font-size: 16px;
 	text-decoration: none;
 }
 .nav-pagination1 ul li {
-	color: #575a73;
+	color: #ffffff;
 	font-size: 16px;
 	text-decoration: none;
 }
@@ -843,7 +845,7 @@ a:hover {
 	margin: 0px 5px
 }
 .hraing {
-	border-top: 1px solid#ddd;
+	border-top: 1px solid#ffffff;
 	margin-top: 14px;
 	margin-bottom: 54px;
 }
@@ -859,7 +861,7 @@ a:hover {
 	background-position: top;
 }
 .hraing1 {
-	border-top: 1px solid #ddd;
+	border-top: 1px solid #ffffff;
 	margin-top: 40px;
 	margin-bottom: 0px
 }
@@ -869,7 +871,7 @@ a:hover {
 .footer-bottom1 p {
 	margin: 50px 0px;
 	font-size: 15px;
-	color: #575a73;
+	color: #ffffff;
 	font-weight: 500
 }
 .footer-bottom1 p a {
@@ -1025,7 +1027,7 @@ MOD: TIMELINE SPLIT
 }
 .main-3-section ul li a {
 	padding: 10px 14px;
-	background: #d3d4dc;
+	background: #ffffff;
 	border-radius: 50%;
 	color: #fff;
 	transition: all 0.3s ease-in-out;
@@ -1043,7 +1045,7 @@ MOD: TIMELINE SPLIT
 	margin-left: 0px
 }
 .main-3-section ul li:hover a {
-	background: #fb527a;
+	background: #fbc94c;
 }
 .send-message {
 	background: #fb527a;
@@ -1199,7 +1201,7 @@ MOD: TIMELINE SPLIT
 -------------------------------------*/
 
 .main-navigation .menu-left li a {
-	color: #575a73
+	color: #ffffff
 }
 .main-navigation .button-right li a:hover {
 	background: #d3d4dc;
