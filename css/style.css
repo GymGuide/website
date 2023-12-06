@@ -760,6 +760,7 @@ a:hover {
 	border-right: 1px solid #ddd;
 	margin-bottom: 20px
 }
+
 .about-overlay {
 	position: relative
 }
@@ -804,7 +805,7 @@ a:hover {
 	background: transparent;
 }
 .main-navigation .menu-left li a:focus {
-	color: #fb527a;
+	color: #fbc94c;
 	transition: 0.4s;
 	background: transparent;
 }
@@ -1029,8 +1030,9 @@ MOD: TIMELINE SPLIT
 	padding: 10px 14px;
 	background: #ffffff;
 	border-radius: 50%;
-	color: #fff;
+	color: #000000;
 	transition: all 0.3s ease-in-out;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 .main-3-section ul li.facebook-icon a {
 	padding: 10px 16px
