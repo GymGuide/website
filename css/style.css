@@ -1053,7 +1053,8 @@ MOD: TIMELINE SPLIT
 	background: #fbc94c;
 	color: #000000;
 	padding: 15px 30px;
-	margin-bottom: 20px
+	margin-bottom: 20px;
+	font-weight: 600;
 }
 .send-message:hover {	
 	background: #ffffff;	
