@@ -145,7 +145,7 @@ color: white;}
 }
     ul.banner-tabs li{margin: 0px 4px}
 body{overflow-x:hidden;}
-.navigation .navbar-toggle{border:1px solid #fb527a; margin-top:25px;}
+.navigation .navbar-toggle{border:1px solid #ffffff; margin-top:25px;}
 .navigation .icon-bar{background-color:#fff;}
 .mobile-app-banner{background-image:url(../image/banner.png); background-size:cover; margin-bottom:40px; height:900px;
 background-repeat:no-repeat;}

@@ -111,9 +111,9 @@ iframe {
 	transition: 0.4s;
 }
 .navigation .button-right li a:focus {
-	background-color: #a99dba;
+	background-color: #ffffff;
 	border-radius: 4px;
-	color: #46356b;
+	color: #000000;
 	font-weight: 600;
 	transition: 0.4s;
 }
@@ -809,8 +809,8 @@ a:hover {
 	transition: 0.4s;
 	background: transparent;
 }
-.main-navigation .menu-left li a: {
-	color: #575a73!important;
+.main-navigation .menu-left li a: {		
+	color: #ffffff!important;
 }
 .hr-heading {
 	border-top: 1px solid#ddd;
@@ -1014,7 +1014,7 @@ MOD: TIMELINE SPLIT
 	padding-bottom: 120px;
 }
 .contact-section .form-control:focus {
-	border-color: #fb527a;
+	border-color: #000000;
 	box-shadow: none
 }
 .main-3-section ul {
@@ -1050,23 +1050,24 @@ MOD: TIMELINE SPLIT
 	background: #fbc94c;
 }
 .send-message {
-	background: #fb527a;
-	color: #fff;
+	background: #fbc94c;
+	color: #000000;
 	padding: 15px 30px;
 	margin-bottom: 20px
 }
-.send-message:hover {
-	background: #d3d4dc;
-	color: #fff
+.send-message:hover {	
+	background: #ffffff;	
+	color: #000000;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
-.input-box::-webkit-input-placeholder {
+.input-box::-webkit-input-placeholder {	
 	/* Chrome, Firefox, Opera, Safari 10.1+ */
-	color: #575a73;
+	color: #000000;
 }
 .textarea1::-webkit-input-placeholder {
 	/* Chrome, Firefox, Opera, Safari 10.1+ */
-	color: #575a73;
-}
+	color: #000000;
+}	
 .bg-section {
 	padding-left: 50px
 }
@@ -1080,7 +1081,7 @@ MOD: TIMELINE SPLIT
 }
 .main-3-section h5 {
 	margin-top: 0px;
-	color: #3a3161;
+	color: #000000;
 	font-size: 16px
 }
 .textarea1 {
@@ -1206,8 +1207,8 @@ MOD: TIMELINE SPLIT
 	color: #ffffff
 }
 .main-navigation .button-right li a:hover {
-	background: #d3d4dc;
-	color: #fff
+	background: #ffffff;
+	color: #000000
 }
 .desk-trust ul {
 	padding: 0
