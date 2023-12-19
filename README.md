@@ -1,2 +1,1 @@
-# GymGuide-Website
-Landing Page Website
+# gymguideapp.github.io

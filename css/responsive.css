@@ -53,6 +53,7 @@
     .desktop-mobile-app{margin-top: 0px}
 .bg-section{padding-left: 0px}
 .sooper-text h4, .nav-pagination1{text-align: center}
+.sooper-text {text-align: center}
 .footer-logo-text{text-align: center; margin-bottom: 20px}
 .main-3-section{ text-align: center}
 .card{margin-bottom: 0px}
@@ -72,7 +73,7 @@ ul.banner-tabs li{ font-size: 7px; margin: 0px 5px}
 .logo-footer2 img{display: inline-block}
     .footer-bottom1 p{    margin: 20px auto;
     width: 80%;line-height: 24px}
-.footer-bottom{padding-top: 62px; background: url(../image/footer-bottom.png); background-position: bottom; background-size: cover}
+.footer-bottom{padding-top: 80px; background: url(../image/footer-bottom.png); background-position: bottom; background-size: cover}
 .footer-bottom1{padding-top: 0px}
 .right-text h4{ font-size: 15px}
 .right-text h4 img{ height: 30px; width: 30px}
@@ -86,8 +87,8 @@ height: 460px;}
 .feature{margin-top: 0}
 .navigation .button-right{ margin: 0px}
 .navigation .button-right{margin-bottom: 10px}
-.navigation .navbar-toggle{border:1px solid     #fb527a; margin-top:25px;}
-.main-navigation .navbar-toggle{border:1px solid #3a3161 ; background: #3a3161}
+.navigation .navbar-toggle{border:1px solid     #ffffff; margin-top:25px;}
+.main-navigation .navbar-toggle{border:1px solid #ffffff ; background: #000000}
 .navigation .icon-bar{background-color:#fff;}
 .mobile-app-banner{padding-top:100px!important;background-image:url(../image/banner.png); background-size:cover;padding-bottom: 0px;
 background-repeat:no-repeat;}	
@@ -132,7 +133,7 @@ padding: 19px 25px 19px 25px;}
 .navbar{min-height: 35px;
 padding-bottom: 0px!important;
 transition: all 0.3s ease;
-background: #20082a!important;
+background: #000000!important;
 color: white;}
 }
 @media (min-width:481px) and (max-width:767px)  { .overlay img {
@@ -245,3 +246,9 @@ background-position:bottom;}
 .mobile-app-banner{ padding-bottom: 465px}
 .headbetter{padding-left: 385px; padding-top: 100px}
 }
+
+@media (max-width: 640px) {
+    #my-video {
+      width: 640px;
+      height: 264px;
+    }

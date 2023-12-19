@@ -1102,7 +1102,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: #000000;
   text-decoration: underline;
 }
 a:focus {
@@ -1223,7 +1223,7 @@ h2,
 h3,
 .h3 {
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 2.5px;
 }
 h1 small,
 .h1 small,
