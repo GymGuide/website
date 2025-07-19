@@ -50,12 +50,14 @@ GymGuide is designed for:
 Visit our landing page at [gymguide.github.io/website](https://gymguide.github.io/website)
 
 ## 📁 Repository Structure
+```plaintext
 website/
-├── index.html # Main landing page
-├── assets/ # Images, videos, icons
-├── css/ # Page styling
-├── js/ # Interactivity (scroll, animations, modals)
-└── README.md # Project documentation
+├── index.html          # Main landing page
+├── assets/            # Images, videos, icons
+├── css/              # Page styling
+├── js/               # Interactivity (scroll, animations, modals)
+└── README.md         # Project documentation
+```
 
 
 ## 🛠️ Local Development Setup
